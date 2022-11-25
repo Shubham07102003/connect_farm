@@ -12,7 +12,7 @@ Open FarmConnect App, login and view details!
 NOTE : Arduino Module has dummy values right now due to lack of WiFi module. The mobile app and server are functional with dummy values.
 
 
-## Information
+## Information <br>
 1. Default Username:dev,Default Password:pass <br>
 2.Tech Stacks:Flutter,Dart / PHP / MYSQL / Arduino Programming<br>
 3.Canva Presentation:https://www.canva.com/design/DAFS5fi25_c/dsMB48DUkCp46GnHYfnDRg/edit?utm_content=DAFS5fi25_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>
