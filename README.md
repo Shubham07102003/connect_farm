@@ -10,7 +10,7 @@ A Flutter App made with flutter/dart with aderunio sensors for the live data abo
 
 4.Arduino Programming: https://github.com/Jeev04/FarmConnect<br>
 5.Backend Code :https://github.com/dgbkn/farmconnect/backend<br>
-6.Backend Hosted on https://1sec.live/
+6.Backend Hosted on https://1sec.live/<br>
 5.Relases Page For Testing The Project:https://github.com/dgbkn/farmconnect/releases
 
 
