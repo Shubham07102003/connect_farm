@@ -1,16 +1,15 @@
-# auto_farming
+# Farm Connect Smart Punjab Hackthon Project
 
-A new Flutter project.
+A Flutter App made with flutter/dart with aderunio sensors for the live data about the farm...
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Untitled](https://user-images.githubusercontent.com/65810521/203880905-f445639b-daf6-4a22-a351-7fe795e36d01.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Information
+1. Default Username:dev,Default Password:pass
+2.Tech Stacks:Flutter,Dart / PHP / MYSQL / Arduino Programming
+3.Canva Presentation:https://www.canva.com/design/DAFS5fi25_c/dsMB48DUkCp46GnHYfnDRg/edit?utm_content=DAFS5fi25_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4.Arduino Programming: 
+5.Relases Page For Testing The Project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
